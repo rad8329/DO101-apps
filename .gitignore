@@ -64,3 +64,6 @@ nb-configuration.xml
 ########
 node_modules
 .env
+weather/yarn.lock
+express-helloworld/yarn.lock
+version/yarn.lock
